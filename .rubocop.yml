@@ -1,3 +1,4 @@
+# To use for error checking
 AllCops:
   RunRailsCops: true
   Include:
